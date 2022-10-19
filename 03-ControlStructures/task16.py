@@ -1,0 +1,5 @@
+# a=int(input("Enter 1st number: "))
+# b=int(input("Enter 2nd number: "))
+# c=(a,b)
+# print(f"Numbers in ascending order: {sorted(c)}")
+print(23//5,23%5)
